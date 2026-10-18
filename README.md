@@ -32,11 +32,11 @@ A classical list report in SAP ABAP that displays employee salary data by joinin
 
 ### 1. User Input Window (Selection Screen)
 
-![User Input Window](https://your-image-link-here/classical-input-screen.png)
+![User Input Window](classical_report1.png)
 
 ### 2. Output Window (Report Output)
 
-![Output Window](https://your-image-link-here/classical-output-screen.png)
+![Output Window](classical_report2.png)
 
 ---
 
